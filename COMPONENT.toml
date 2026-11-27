@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-keepass"
+version = "0.1.0"
+category = "tools"
+description = "KeePass password database management for SigmaOS"
